@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="site.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header class="header-container-padre">
+        <a href="/" class="logo">
+          <img src="https://getmatcha.com/wp-content/themes/getmatcha/img/footer_logo.svg"alt="Logo"/>
+        </a>
+        <nav class="navbar">
+          <ul >
+            <li><a href="/">Platform</a></li>
+            <li><a href="/">Pricing</a></li>
+            <li><a href="/">Customer</a></li>
+            <li><a href="/">Resources</a></li>
+            <li><a href="/">About</a></li>
+          </ul>
+        </nav>
+        <div class="actions">
+          <a href="/">Sign In</a>
+          <button>Start free trial</button>
+        </div>
+    </header>
+
+    <main>
+        <h1>Título principal</h1>
+        <section>
+            <article>
+                <h2>Arte</h2>
+                <img src="" alt=""/>
+                <p></p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Deportes</h2>
+                <img src="" alt=""/>
+                <p></p>
+            </article>
+        </section>
+    </main>
+    <div>
+        <section>
+            <article>
+                <h2>Tecnología</h2>
+                <img src="" alt=""/>
+                <p></p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Cualquier cosa</h2>
+                <img src="" alt=""/>
+                <p></p>
+            </article>
+        </section>
+    </div>
+    <aside>
+        <div>social media</div>
+        <div>spotify</div>
+        <div><a href="#"></a></div>
+    </aside>
+    <footer>
+        <a href="/">
+            <img src="https://getmatcha.com/wp-content/themes/getmatcha/img/footer_logo.svg" alt="Matcha">
+        </a>
+        <p>&copy;2020 Matcha Co. All rights reserved</p>
+    </footer>
+  </body>
+</html>
